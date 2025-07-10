@@ -1,0 +1,12 @@
+Relative humidity measurements of the air plume in the wind tunnel using a
+sensor (SHT4x, Sensirion) located 10 cm downwind of the odor/CO2 outlet.
+
+
+#---- "10% jar air, no bubble.csv" ----
+Data file recording the temperature and relative humidity of plume air. This
+data is used in figure S2.
+
+
+#---- "on off times.txt" ----
+Text file recording the on and off time of the humidified air in the dataset
+above.
